@@ -1,0 +1,13 @@
+{
+  "name": "simpleuploadercloudinary",
+  "version": "1.0.0",
+  "description": "Simple node script that uploads files to cloudinary with responsive configs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.9.0",
+    "dotenv": "^4.0.0"
+  }
+}

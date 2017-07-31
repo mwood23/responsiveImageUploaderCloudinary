@@ -1,0 +1,24 @@
+{
+  "photos": [
+    {
+      "location": "https://cloudinary-res.cloudinary.com/image/asset/dpr_2.0/logo-e0df892053afd966cc0bfe047ba93ca4.png",
+      "tags": [],
+      "public_id": "Clodinary Logo",
+      "bytes_step": 0,
+      "min_width": 0,
+      "max_width": 0,
+      "max_images": 0,
+      "transformation": {"width": 400, "height": 400}
+    },
+    {
+      "location": "<PATH TO YOUR LOCAL PHOTO>",
+      "tags": [],
+      "public_id": "Your cool phtoo",
+      "bytes_step": 15000,
+      "min_width": 800,
+      "max_width": 1200,
+      "max_images": 14,
+      "transformation": {}
+    }
+  ]
+}

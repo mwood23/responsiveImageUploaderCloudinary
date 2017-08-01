@@ -1,0 +1,24 @@
+{
+  "photos": [
+    {
+      "location": "http://res.cloudinary.com/responsivebreakpoints/image/upload/dog.jpg",
+      "tags": [],
+      "public_id": "Puppy",
+      "bytes_step": 20000,
+      "min_width": 200,
+      "max_width": 1400,
+      "max_images": 20,
+      "transformation": {"radius": "max", "crop": "crop"}
+    },
+    {
+      "location": "/user/name/your/cool/puppy",
+      "tags": [],
+      "public_id": "Your cool puppy photo",
+      "bytes_step": 15000,
+      "min_width": 800,
+      "max_width": 1200,
+      "max_images": 14,
+      "transformation": {}
+    }
+  ]
+}

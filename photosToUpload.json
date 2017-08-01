@@ -1,19 +1,19 @@
 {
   "photos": [
     {
-      "location": "https://cloudinary-res.cloudinary.com/image/asset/dpr_2.0/logo-e0df892053afd966cc0bfe047ba93ca4.png",
+      "location": "http://res.cloudinary.com/responsivebreakpoints/image/upload/dog.jpg",
       "tags": [],
-      "public_id": "Clodinary Logo",
-      "bytes_step": 0,
-      "min_width": 0,
-      "max_width": 0,
-      "max_images": 0,
-      "transformation": {"width": 400, "height": 400}
+      "public_id": "Puppy",
+      "bytes_step": 20000,
+      "min_width": 200,
+      "max_width": 1400,
+      "max_images": 20,
+      "transformation": {"radius": "max", "crop": "crop"}
     },
     {
-      "location": "<PATH TO YOUR LOCAL PHOTO>",
+      "location": "/user/name/your/cool/puppy",
       "tags": [],
-      "public_id": "Your cool phtoo",
+      "public_id": "Your cool puppy photo",
       "bytes_step": 15000,
       "min_width": 800,
       "max_width": 1200,

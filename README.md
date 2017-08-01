@@ -66,23 +66,23 @@ node index.js
 
 <!-- Upload for PUBLIC_ID Puppy  -->
 <img sizes="(max-width: 1400) 100vw, 1400"
-  srcset="https://res.cloudinary.com/woodsproduce/image/upload/c_crop,r_max/c_scale,w_1400/v1501546428/Puppy.jpg 1400w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_crop,r_max/c_scale,w_1365/v1501546428/Puppy.jpg 1365w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_crop,r_max/c_scale,w_1202/v1501546428/Puppy.jpg 1202w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_crop,r_max/c_scale,w_872/v1501546428/Puppy.jpg 872w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_crop,r_max/c_scale,w_625/v1501546428/Puppy.jpg 625w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_crop,r_max/c_scale,w_200/v1501546428/Puppy.jpg 200w"
-  src="https://res.cloudinary.com/woodsproduce/image/upload/v1501546428/Puppy.jpg"
+  srcset="https://res.cloudinary.com/yourapp/image/upload/c_crop,r_max/c_scale,w_1400/v1501546428/Puppy.jpg 1400w,
+  https://res.cloudinary.com/yourapp/image/upload/c_crop,r_max/c_scale,w_1365/v1501546428/Puppy.jpg 1365w,
+  https://res.cloudinary.com/yourapp/image/upload/c_crop,r_max/c_scale,w_1202/v1501546428/Puppy.jpg 1202w,
+  https://res.cloudinary.com/yourapp/image/upload/c_crop,r_max/c_scale,w_872/v1501546428/Puppy.jpg 872w,
+  https://res.cloudinary.com/yourapp/image/upload/c_crop,r_max/c_scale,w_625/v1501546428/Puppy.jpg 625w,
+  https://res.cloudinary.com/yourapp/image/upload/c_crop,r_max/c_scale,w_200/v1501546428/Puppy.jpg 200w"
+  src="https://res.cloudinary.com/yourapp/image/upload/v1501546428/Puppy.jpg"
   alt=""
 />
 
 <!-- Upload for PUBLIC_ID Your cool puppy photo  -->
 <img sizes="(max-width: 1200) 100vw, 1200"
-  srcset="https://res.cloudinary.com/woodsproduce/image/upload/c_scale,w_1200/v1501546589/Your%20cool%20puppy%20photo.jpg 1200w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_scale,w_1182/v1501546589/Your%20cool%20puppy%20photo.jpg 1182w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_scale,w_1018/v1501546589/Your%20cool%20puppy%20photo.jpg 1018w,
-  https://res.cloudinary.com/woodsproduce/image/upload/c_scale,w_800/v1501546589/Your%20cool%20puppy%20photo.jpg 800w"
-  src="https://res.cloudinary.com/woodsproduce/image/upload/v1501546589/Your%20cool%20puppy%20photo.jpg"
+  srcset="https://res.cloudinary.com/yourapp/image/upload/c_scale,w_1200/v1501546589/Your%20cool%20puppy%20photo.jpg 1200w,
+  https://res.cloudinary.com/yourapp/image/upload/c_scale,w_1182/v1501546589/Your%20cool%20puppy%20photo.jpg 1182w,
+  https://res.cloudinary.com/yourapp/image/upload/c_scale,w_1018/v1501546589/Your%20cool%20puppy%20photo.jpg 1018w,
+  https://res.cloudinary.com/yourapp/image/upload/c_scale,w_800/v1501546589/Your%20cool%20puppy%20photo.jpg 800w"
+  src="https://res.cloudinary.com/yourapp/image/upload/v1501546589/Your%20cool%20puppy%20photo.jpg"
   alt=""
 />
 

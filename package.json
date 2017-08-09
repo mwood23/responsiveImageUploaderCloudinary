@@ -1,7 +1,11 @@
 {
   "name": "simpleuploadercloudinary",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Simple node script that uploads files to Cloudinary with responsive configs",
+=======
+  "description": "Simple node script that uploads files to cloudinary with responsive configs",
+>>>>>>> 599cf67415067d59533dc2da356ab36fec33ddd1
   "main": "index.js",
   "scripts": {},
   "author": "",

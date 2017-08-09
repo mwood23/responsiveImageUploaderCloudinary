@@ -48,7 +48,7 @@ photosToUpload.photos.forEach(function(photo) {
       // Template literals preserve leading whitespace
       let imgTag = `
   <!-- Upload for PUBLIC_ID ${photoObj.public_id}  -->
-  <img sizes="(max-width: ${maxWidth}) 100vw, ${maxWidth}"
+  <img sizes="(max-width: ${maxWidth}px) 100vw, ${maxWidth}px"
     srcset="${srcSet}"
     src="${photoObj.secure_url}"
     alt=""

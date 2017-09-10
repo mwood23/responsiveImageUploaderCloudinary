@@ -1,6 +1,7 @@
 # Simple Responsive Image Uploader Node
 
 > Upload all your images to Cloudinary with specified breakpoints and get formatted image tags back
+
 > See how it works on Medium: http://bit.ly/2jgxz3O
 
 ### Features:
